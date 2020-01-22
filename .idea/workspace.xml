@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b155507-a33c-446b-bb7c-51ca825b5820" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WgZhPdxqxmCIkmKvyQzqht6uqy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/program/python/fullmarks/fastapi" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b155507-a33c-446b-bb7c-51ca825b5820" name="Default Changelist" comment="" />
+      <created>1579573316700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579573316700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="712" y="0" key="#Dockerfile" timestamp="1579573650301">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="712" y="0" key="#Dockerfile/0.0.1280.680@0.0.1280.680" timestamp="1579573650301" />
+    <state x="741" y="99" key="FileChooserDialogImpl" timestamp="1579586197660">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="741" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579586197660" />
+    <state x="656" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1579573321076">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="656" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1579573321076" />
+  </component>
+</project>
