@@ -32,7 +32,6 @@ def siritori_func(message):
     status_hira = re_hiragana.fullmatch(message.body['text'])  # fullmatch:完全一致
     if status_hira:
         if message.body['text'] == 'しりとり':
-
             message.reply('しりとりを開始するよ！\n駅名をひらがなで入力してね。同じ駅名は２回以上使用してはならないよ！\n最初の単語は：\n' + last_word)
             w_list.remove(last_word)
             flag = True
